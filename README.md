@@ -54,4 +54,8 @@ Run this block to start a chatting session.
 2. Low efficiency and flexibility by implementing Chatbot on Keras in model construction. Traning a Keras-based model takes more time and making improvement over relatively detailed aspects of the model is harder compared to model using other libraries
 
 ## Referrence
-[1] https://github.com/jkarimi91/chatbot[2] https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html[3] https://github.com/keras-team/keras/blob/master/examples/addition_rnn.py
+[1] https://github.com/jkarimi91/chatbot
+
+[2] https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html
+
+[3] https://github.com/keras-team/keras/blob/master/examples/addition_rnn.py
